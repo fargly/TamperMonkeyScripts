@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.6
 // @description  Override YouTube's inline style for rich grid columns using MutationObserver.
-// @author       Your Name
+// @author       fargly
 // @match        https://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
